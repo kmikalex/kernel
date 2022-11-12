@@ -1,3 +1,3 @@
 <?
-$kernel = 1 . 'test';
+$kernel = 1 . 'test1';
 ?>
